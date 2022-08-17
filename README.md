@@ -8,3 +8,7 @@ Machine learning is an application of AI which provides the ability to system to
 4)Semisupervised learning.
 
 Supervised learning : means we trained our model with labeled examples so the machine first learns from those examples and then performs the task on unseen data. In this fake news detection project, we are using Supervised learning.
+
+#### What is Fake News ?
+Fake news's simple meaning is to incorporate information that leads people to the wrong path. Nowadays fake news spreading like water and people share this information without verifying it. This is often done to further or impose certain ideas and is often achieved with political agendas.
+For media outlets, the ability to attract viewers to their websites is necessary to generate online advertising revenue. So it is necessary to detect fake news.
